@@ -30,7 +30,7 @@ L'objectif de ce projet est de créer un jeu de Hangman en ligne de commande en 
 
 ---
 
-### **Partie 2 : L'Histoire de José**
+### **Partie 2 : L'Histoire du pendu**
 
 Si le joueur perd, sera affichée en fonction du nombre de tentatives restantes.
 
